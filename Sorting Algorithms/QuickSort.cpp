@@ -2,7 +2,7 @@
 #include <math.h>
 using namespace std;
 
-/* Algorito de ordenación por selección - Se compara itera sobre un array buscando el mínimo,
+/* Algorito de ordenación Quicksort - Se compara itera sobre un array buscando el mínimo,
 una vez obtenido el mínimo del array se intercambia con la posición iésima del array */
 
 /* Al pasar un objeto tipo array --> el tamaño se acorta y se pierde la información de varios elementes 
